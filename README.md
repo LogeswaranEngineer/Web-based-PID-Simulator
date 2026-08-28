@@ -1,4 +1,4 @@
-# 🚗 PID Cruise Control Lab
+# PID Cruise Control Lab
 
 An interactive browser-based simulator for understanding **PID control through vehicle cruise control**.
 
@@ -6,13 +6,18 @@ Instead of learning PID only from equations, this project lets you **change Kp, 
 
 > **Learn PID by experimenting with it.**
 
-## 🌐 Live Demo
+##  Live Demo
 
 🚀 [**Open the PID Cruise Control Lab**](https://logeswaranengineer.github.io/Web-based-PID-Simulator/)
 
 ## 🎥 Demo
 
 Watch the PID controller respond to different gains, target speeds, road disturbances, and actuator saturation.
+https://github.com/LogeswaranEngineer/Web-based-PID-Simulator/blob/main/docs/pid.mp4
+
+
+https://github.com/user-attachments/assets/a7cdc97a-1515-4a3d-bdb0-90850d445f19
+
 
 ## 🖥️ Simulator
 
